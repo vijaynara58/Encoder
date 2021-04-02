@@ -1,0 +1,12 @@
+G:\CDE Projects\c#Projects\Encoder\bin\Debug\Encoder.exe.config
+G:\CDE Projects\c#Projects\Encoder\bin\Debug\Encoder.exe
+G:\CDE Projects\c#Projects\Encoder\bin\Debug\Encoder.pdb
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.csprojAssemblyReference.cache
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.frmLogin.resources
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.exe
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.pdb
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.frmEncoder.resources
+G:\CDE Projects\c#Projects\Encoder\obj\Debug\Encoder.frmHelp.resources
